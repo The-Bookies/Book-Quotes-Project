@@ -1,7 +1,7 @@
 # Book-Quotes-Project
 The repository for all base data, python files and final database for our ETL project.
 
-This project's purpose is to download, clean and transform best seller book data, book information and mos popular quotes in goodreads to produce a unique database with the consolidated information that is accessible to all. 
+This project's purpose is to download, clean and transform best seller book data, book information and most popular quotes in GoodReads to produce a unique database with the consolidated information that is accessible to all. 
 
 Sources of Data:
 
@@ -14,10 +14,10 @@ https://www.kaggle.com/zygmunt/goodbooks-10k/home
 
 This is a database that contains several CSV files with information on 10K books, including books information, and ratings for books (in two separate CSV files)
 
-NY times Best Sellers list 2011-2018
+NY Times Best Sellers list 2011-2018
 https://data.world/typhon/new-york-times-bestsellers-from-2011-to-2018
 
-This is a database that contains all the titles, authors and isbns for books that were included in the bestselling list of the newyork times, along with how many weeks it was in that list. 
+This is a database that contains all the titles, authors and isbns for books that were included in the bestselling list of the New York Times, along with how many weeks it was in that list. 
 
 On top of this, we will be scraping data from the good reads website https://www.goodreads.com/
 for cases when the information on the other three databases is incomplete 
