@@ -30,5 +30,5 @@ https://github.com/The-Bookies/Book-Quotes-Project
 
 There are three python files used to clean up and transform each of the three databases, leaving only the information needed for our final database and the scraping used to fill in missing information. 
 
-Theres another python file used for joining all three databases, organizing the data and uploading it in a __________ database on ____ for further using. 
+Theres another python file used for joining all three databases, organizing the data and uploading it in a relational database for further using. 
 
